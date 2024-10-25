@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm node</h1>
-<h3 align="center">Im a developer that is learning various coding skills listed below</h3>
+<h1 align="left">Hi 👋, I'm node</h1>
+<h3 align="left">Im learning various coding skills listed below</h3>
 
 - 🔭 I’m currently working on **web development**
 
