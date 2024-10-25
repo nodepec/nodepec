@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yen</h1>
-<h3 align="center">A passionate developer from Australia</h3>
+<h3 align="center">Im a developer that is learning various coding skills listed below</h3>
 
 - 🔭 I’m currently working on **web development**
 
