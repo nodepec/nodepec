@@ -1,9 +1,4 @@
 <h1 align="left">Hi 👋</h1>
-<h3 align="left">Im learning various coding skills listed below</h3>
-
-- 🔭 I’m currently working on **web development**
-
-- 🌱 I’m currently learning **backends, frameworks, databases**
 
 <p align="left">
 </p>
