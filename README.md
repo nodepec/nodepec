@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="fumo.png" alt="fumo" style="max-width: 50%; height: auto;" />
+  <img src="cheese_grater.png" alt="cheese grater" style="max-width: 100%; height: auto;" />
 </p>
